@@ -1,0 +1,9 @@
+Read Me
+
+Project Name: Residence Listings
+Focus: Classes, Inheritance , Exceptions, Arrays
+Explanation:
+-Residence class, Apartment and House subclasses.
+-Methods create and organize objects of apartment and house in a residence array
+-Determine what type the objects in the array are, display appropriate information
+Date: 11/4/2016
