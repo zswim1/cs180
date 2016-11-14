@@ -1,0 +1,8 @@
+Read Me
+
+Project Name: Connect4
+Purpose: 2-D arrays, char
+Explanation:
+-play connect 4 game, a char for each player
+-add "piece" in lowest empty slot in column, check for winner
+Date: 10/14/2016
