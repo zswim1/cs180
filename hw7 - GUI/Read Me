@@ -1,9 +1,8 @@
 Read Me
 
 Project Name: GUI
-Purpose: build a graphical user interface for pizza ordering
 Focus: Making a GUI, action listeners, GUI layout
 Explanation:
--Create a GUI with buttons for the size, style, and toppings of pizza
+-Create a GUI with buttons/menu for the size, style, and toppings of pizza
 -Submit button with action listener that prints results of buttons to text area.
 Date: 10/28/2016
