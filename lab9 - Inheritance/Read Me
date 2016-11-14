@@ -1,0 +1,8 @@
+Read Me
+
+Project Name: Inheritance
+Focus: Classes, Inheritance, ArrayList
+Explanation:
+-parent class MusicPlayer, subclasses EthernetPlayer and CDPlayer
+-objects made based on which class they are, different methods for playing each
+Date: 11/2/2016
