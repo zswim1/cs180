@@ -1,0 +1,9 @@
+Read Me
+
+Project Name: Delimited Data
+Focus: file IO, string manipulation, exceptions
+Explanation:
+-given file, collect string and maniputate it.
+-check for delimiters, ensure format is correct
+-get information from correct point if format is correct, throw exception if not
+Date: 11/11/2016
