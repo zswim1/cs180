@@ -1,0 +1,9 @@
+Read Me
+
+Project Name: ArrayBuilder
+Purpose: Build a rectangular array given initial char, width, and length
+Focus: char manipulation, arrays
+Explanation:
+-given initial char, create an array wherein each movement right or down is the next letter of the alphabet.
+-when the end of the alphabet is reached, the array resets to 'a'.
+Date: 10/14/2016
