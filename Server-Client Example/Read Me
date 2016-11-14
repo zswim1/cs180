@@ -1,0 +1,7 @@
+Read Me
+
+Project Name: Server-Client Example
+Purpose: make a basic client-server connection to base more complicated projects off
+Focus: file input and output, sockets
+Explanation: client sends a number to server, server modifies it and returns it.
+Date: 11/4/2016
