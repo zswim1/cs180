@@ -1,6 +1,7 @@
 Read Me
 
 Project Name: Delimited Data
+Purpose: given a file, ensure its contents match a given format.
 Focus: file IO, string manipulation, exceptions
 Explanation:
 -given file, collect string and maniputate it.
