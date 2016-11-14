@@ -1,0 +1,10 @@
+Read Me
+
+Project Name: Server
+Focus: client, socket, object IO, GUI, MVC architecture, Exceptions, Arrays, Action Listeners
+Explanation:
+-game modeled after the app "psych"
+-users need to login, then proceed through the process of the game
+-send and recieve data with server, base GUI progression and user data on this
+-View: GUI, Controller: client and view-model interaction, Model: user data (player class)
+Date: 11/11/2016
