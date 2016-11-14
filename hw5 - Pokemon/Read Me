@@ -1,0 +1,9 @@
+Read Me
+
+Project Name: Pokemon
+Purpose: Create and battle pokemon
+Focus: Classes, Methods, Objects
+Explanation: 
+-Pokemon objects created with type, attk power, health. 
+-Methods to battle and simulate battle, and to return the statistics of the pokemon.
+Date: 10/7/2016
